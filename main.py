@@ -1,7 +1,7 @@
-from encapsulation.employees import CityEmployee, ITStaff
-from inheritance.citizens import Citizen, StudentCitizen
-from polymorphism.transport import Bus, Taxi, Metro
-from abstraction.services import SmartParkingService, FireService
+from encapsulation import CityEmployee, ITStaff
+from inheritance import Citizen, StudentCitizen
+from polymorphism import Bus, Taxi, Metro
+from abstraction import SmartParkingService, FireService
 
 
 def main():
